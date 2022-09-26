@@ -16,3 +16,5 @@ env
 # Misc (playground/large data file)
 data/bluebook_for_bulldozers/
 notebook-playground.ipynb
+
+.idea
